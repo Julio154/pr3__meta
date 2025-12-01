@@ -1,6 +1,6 @@
 algoritmo=memgen
 dataset=ford04.dat
-seed=92726774
+seed=77492726
 k = 5
 cruce = OX2
 M = 100
@@ -10,7 +10,5 @@ kWorst = 3
 prob_cruce = 0.7
 prob_mut = 0.1
 max_eval = 50000
-max_time = 60
-
 tenenciatabu=3
 estancamiento=0.05
